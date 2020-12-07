@@ -1,0 +1,9 @@
+Andrew Gallagher (arg213)
+
+1. There are no known issues in my attached code
+
+2. The problems I faced was knowing exactly what I should be coding and how I should be coding it. Sometimes, the document what was provided would be a bit cryptic when it came to explaining why it is doing what it is doing and how to send the message out. other than that, everything was fine. Knowing in more detail what we are supposed to do from the start wouldve helped more
+
+3. This server was coded in python 2.7
+
+4. Even though the code isnt exact, I greatly mimiced the code for sending a udp message from here: https://routley.io/posts/hand-writing-dns-messages/
